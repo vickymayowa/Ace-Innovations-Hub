@@ -24,9 +24,6 @@ A modern, responsive e-commerce product catalog built with React, TypeScript, an
 - **React Router** - Navigation
 - **Fake Store API** - Product data
 
-## Project info
-
-**URL**: https://lovable.dev/projects/13221f07-7464-4d07-a14a-7682c4aa308c
 
 ## Setup Instructions
 
